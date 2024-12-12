@@ -1,0 +1,2 @@
+class FaceAlreadyExistsException(Exception):
+    pass

@@ -1,0 +1,49 @@
+,id,intent
+0,0,Who is at the door
+1,1,When was the last time they were here
+2,2,Do I know the person at the door
+3,3,What is this persons relationship to me
+4,3,How do I know this person
+5,3,What is their relationship to me
+6,1,When was the last time they were here?
+7,1,When was their last visit?
+8,1,When were they here last?
+9,1,when was the person at the door last here
+10,3,is this person my boss
+11,3,is this person my friend
+12,3,how is this person related to me
+13,4,who does this person know here
+14,4,who is this person friends with
+15,4,who do they know here
+16,4,who are they friends with
+17,4,who do they know 
+18,4,are they friends with 
+19,4,are they friends   
+20,3,how do I know them 
+21,5,when is their birthday
+22,5,when was their birthday 
+23,5,tell me their birthday
+24,5,when was the person at the doors birthday
+25,5,birthday
+26,6,why did they come here last time
+27,6,what was the purpose of their last visit
+28,6,what did they do here last time
+29,6,why did they come to my house last time
+30,6,why did they come to my house   
+31,6,why were they here
+32,6,tell me why they were here last time 
+33,7,update their last visit date
+34,7,update the last time they were here
+35,7,update the date of their last visit
+36,7,update last visit date 
+37,8,how many times have they been here
+38,8,how many visits has this person had
+39,8,what is the number of times this person has been here
+40,8,how many visits they have
+41,8,how often do they visit
+42,7,update the number of visits
+43,7,update their number of visits
+44,7,update how many times they have visited
+45,9,add the person to my contacts
+46,9,include the person into my contacts
+47,9,add a new person
